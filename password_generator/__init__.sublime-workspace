@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"clipboard"
+			],
+			[
+				"gr",
+				"groups"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/lenovo/Desktop/password_generator-project/manage.py",
+			"settings":
+			{
+				"buffer_size": 638,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "__init__.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "asgi.py",
+			"settings":
+			{
+				"buffer_size": 413,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/Python-Automation-Scripts-Try/Python-Automation-Scripts-master/Automated Email Sending/automate_email - Copy.py",
+		"/G/Python-Automation-Scripts-Try/Python-Automation-Scripts-master/Automated Email Sending/automate_email.py",
+		"/G/Python-Automation-Scripts-Try/Python-Automation-Scripts-master/Automated Email Sending/.idea/Python email sending.iml",
+		"/G/Python-Automation-Scripts-Try/Python-Automation-Scripts-master/Automated Email Sending/.idea/modules.xml",
+		"/G/Python-Automation-Scripts-Try/Python-Automation-Scripts-master/Automated Email Sending/.idea/misc.xml",
+		"/G/Python-Automation-Scripts-Try/Python-Automation-Scripts-master/Subtitle Downloader/subtitle_downloader.py",
+		"/C/Users/lenovo/Desktop/get-pip.py",
+		"/G/Python-Automation-Scripts-master/Python-Automation-Scripts-master/Automated Email Sending/automate_email.py",
+		"/G/Python-Automation-Scripts-master/Python-Automation-Scripts-master/Automated Email Sending/credentials.py",
+		"/G/Python-Automation-Scripts-master/Python-Automation-Scripts-master/Image to PDF Converter/image_to_pdf_converter.py",
+		"/C/Users/lenovo/AppData/Local/Temp/Rar$DIa0.024/automate_email.py",
+		"/H/Sopftwares/1PJ007-FaaSeC Enabling Forensics-as-a-Service for Cloud Computing Systems/SOURCECODE/Enabling Forensics/web/sems.jsp",
+		"/H/Sopftwares/1PJ007-FaaSeC Enabling Forensics-as-a-Service for Cloud Computing Systems/SOURCECODE/Enabling Forensics/web/cspact.jsp",
+		"/C/Users/lenovo/Desktop/screenshots/sems.jsp",
+		"/C/Users/lenovo/Desktop/Sopftwares/1PJ007-FaaSeC Enabling Forensics-as-a-Service for Cloud Computing Systems/SOURCECODE/Enabling Forensics/web/viewuploads.jsp",
+		"/C/Users/lenovo/Desktop/Sopftwares/1PJ007-FaaSeC Enabling Forensics-as-a-Service for Cloud Computing Systems/SOURCECODE/Enabling Forensics/web/viewfileresponse.jsp",
+		"/C/Users/lenovo/Desktop/Sopftwares/1PJ007-FaaSeC Enabling Forensics-as-a-Service for Cloud Computing Systems/SOURCECODE/Enabling Forensics/web/viewinvestigators.jsp",
+		"/C/Users/lenovo/Desktop/Sopftwares/1PJ007-FaaSeC Enabling Forensics-as-a-Service for Cloud Computing Systems/SOURCECODE/Enabling Forensics/web/verify.jsp",
+		"/C/Users/lenovo/Desktop/Sopftwares/1PJ007-FaaSeC Enabling Forensics-as-a-Service for Cloud Computing Systems/SOURCECODE/Enabling Forensics/web/sems.jsp",
+		"/C/Users/lenovo/Desktop/Sopftwares/1PJ007-FaaSeC Enabling Forensics-as-a-Service for Cloud Computing Systems/SOURCECODE/Enabling Forensics/web/invesigatorapprove.jsp",
+		"/C/Users/lenovo/Desktop/Sopftwares/1PJ007-FaaSeC Enabling Forensics-as-a-Service for Cloud Computing Systems/SOURCECODE/Enabling Forensics/build/web/sems.jsp",
+		"/C/Users/lenovo/Desktop/Sopftwares/1PJ007-FaaSeC Enabling Forensics-as-a-Service for Cloud Computing Systems/SOURCECODE/Enabling Forensics/web/index.html",
+		"/C/Program Files/Sublime Text 3/sublime_plugin.py",
+		"/C/Users/lenovo/djangoprojects/blog/models.py",
+		"/C/Users/lenovo/djangoprojects/mywebsite/manage.py",
+		"/C/Users/lenovo/djangoprojects/blog/templates/blog/post_list.html",
+		"/C/Users/lenovo/djangoprojects/blog/views.py",
+		"/C/Users/lenovo/djangoprojects/blog/urls.py",
+		"/C/Users/lenovo/djangoprojects/mysite/urls.py",
+		"/C/Users/lenovo/djangoprojects/.gitignore",
+		"/C/Users/lenovo/djangoprojects/blog/admin.py",
+		"/C/Users/lenovo/djangoprojects/mysite/settings.py",
+		"/C/Python27/regexproject.py",
+		"/C/Users/lenovo/AppData/Local/Programs/Python/Python36-32/regex2.py",
+		"/C/Python27/passwordlocker.py",
+		"/F/my programs/hello.py",
+		"/F/my programs/pw.py",
+		"/F/my programs/print.py",
+		"/F/my programs/helloworld.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/lenovo/Desktop/password_generator-project/manage.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "asgi.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "__init__.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
